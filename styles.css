@@ -1,4 +1,7 @@
-/* Sets all the text color to red! */
-body {
-    color: red;
+.rightToLeft {
+  direction: rtl !important;
+}
+
+.leftToRight {
+  direction: ltr !important;
 }
